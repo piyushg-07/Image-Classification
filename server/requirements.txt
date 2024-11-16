@@ -1,7 +1,7 @@
 Flask
 scikit-learn
 opencv-python
-pywt
+PyWavelets
 joblib
 nltk
 gunicorn
