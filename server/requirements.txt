@@ -1,5 +1,6 @@
 Flask
 scikit-learn
+flask_cors
 opencv-python
 PyWavelets
 joblib
